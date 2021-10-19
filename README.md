@@ -30,10 +30,10 @@ I am studying Mechatronics Engineering at the Advanced Technologies School (UPII
 - Azure and AWS ☁️
   
 ## 📚 Books I am currently reading:
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
-- Learning SQL: Generate, Manipulate, and Retrieve Data
-- Data Science from Scratch
-- Practical Statistics for Data Scientist
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron.
+- Learning SQL: Generate, Manipulate, and Retrieve Data by Alan Beaulieu.
+- Data Science from Scratch by Joel Grus.
+- Practical Statistics for Data Scientist by Andrew Bruce, Peter C. Bruce, and Peter Gedeck.
 
 ### Fun fact about me: 👀
 I am currently leading the initiative "Python for Data Science" in the Google Developer Student Club IPN-UPIITA. 🐍
