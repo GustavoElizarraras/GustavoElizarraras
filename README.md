@@ -37,3 +37,6 @@ I am studying Mechatronics Engineering at the Advanced Technologies School (UPII
 
 ### Fun fact about me: 👀
 I am currently leading the initiative "Python for Data Science" in the Google Developer Student Club IPN-UPIITA. 🐍
+
+## My goal is to contribute more to open source 😎🚩
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoElizarraras&theme=tokyonight&fire=DD2727)](https://git.io/streak-stats)
