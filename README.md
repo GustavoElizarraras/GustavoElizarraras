@@ -3,7 +3,7 @@
 I am studying Mechatronics Engineering at the Advanced Technologies School (UPIITA) of the National Polytechnic Institute of Mexico (IPN). Even though, my real passion is Data Science and Machine Learning. 🚀
 
 ## Languages and Technologies
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tensorflow/tensorflow-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="python" width="40" height="40"/>
