@@ -35,8 +35,9 @@ I am studying Mechatronics Engineering at the Advanced Technologies School (UPII
 - Data Science from Scratch by Joel Grus.
 - Practical Statistics for Data Scientist by Andrew Bruce, Peter C. Bruce, and Peter Gedeck.
 
-### Fun fact about me: 👀
-I am currently leading the initiative "Python for Data Science" in the Google Developer Student Club IPN-UPIITA. 🐍
+### Facts about me: 👀
+- I am currently leading the initiative "Python for Data Science" in the Google Developer Student Club IPN-UPIITA. 🐍
+- Even though I have done many specializations in DS and ML, I am reviewing the basics to get solid knowledge. 👓
 
 ## My goal is to contribute more to open source 😎🚩
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoElizarraras&theme=tokyonight&fire=DD2727)](https://git.io/streak-stats)
