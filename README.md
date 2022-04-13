@@ -1,6 +1,9 @@
 # Hi everybody!
 
-I am studying Mechatronics Engineering at the Advanced Technologies School (UPIITA) of the National Polytechnic Institute of Mexico (IPN). Even though, my real passion is Data Science and Machine Learning. 🚀
+I am a __Github Campus Expert__ 🚩 studying Mechatronics Engineering at the Advanced Technologies School (UPIITA) of the National Polytechnic Institute of Mexico (IPN). Even though, my real passion is Data Science and Machine Learning. 🚀
+
+Recently (Spring 2022) I got the opportunity to be be an __Open Source fellow in the MLH fellowship__ ![image](https://user-images.githubusercontent.com/60515606/163269362-9ed3fa1f-315c-49ce-834a-f24a25c19b5f.png)
+, where I was paired with the AWS CLI, I did a feature where the [connect and read timeouts](https://github.com/aws/aws-cli/pull/6803) to the services can be configurable from environment variables or from the config file without deprecating previous behaviour. This let users to have more control over timeouts. 
 
 ## Languages and Technologies
 <p align="center">
@@ -24,6 +27,7 @@ I am studying Mechatronics Engineering at the Advanced Technologies School (UPII
 
 ## 🌱 Currently I am growing my technical skills in: 🐲
 - Review Machine Learning Algorithms 🗿
+- Software Engineering 💾
 - Data Wrangling 📊
 - Statistics with Pandas 🐼
 - SQL 🔎
@@ -36,8 +40,9 @@ I am studying Mechatronics Engineering at the Advanced Technologies School (UPII
 - Practical Statistics for Data Scientist by Andrew Bruce, Peter C. Bruce, and Peter Gedeck.
 
 ### Facts about me: 👀
-- I am currently leading the initiative "Python for Data Science" in the Google Developer Student Club IPN-UPIITA. 🐍
+- I led the initiative "Python for Data Science" in the Google Developer Student Club IPN-UPIITA from 07/2020 to 01/2022. 🐍
 - Even though I have done many specializations in DS and ML, I am reviewing the basics to get solid knowledge. 👓
+- I love tech communities where I can grow alongside folks who are passionate for tech.
 
 ## My goal is to contribute more to open source 😎🚩
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoElizarraras&theme=tokyonight&fire=DD2727)](https://git.io/streak-stats)
