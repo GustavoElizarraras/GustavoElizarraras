@@ -2,8 +2,7 @@
 
 I am a __Github Campus Expert__ 🚩 studying Mechatronics Engineering at the Advanced Technologies School (UPIITA) of the National Polytechnic Institute of Mexico (IPN). Even though, my real passion is Data Science and Machine Learning. 🚀
 
-Recently (Spring 2022) I got the opportunity to be be an __Open Source fellow in the MLH fellowship__ ![image](https://user-images.githubusercontent.com/60515606/163269362-9ed3fa1f-315c-49ce-834a-f24a25c19b5f.png)
-, where I was paired with the AWS CLI, I did a feature where the [connect and read timeouts](https://github.com/aws/aws-cli/pull/6803) to the services can be configurable from environment variables or from the config file without deprecating previous behaviour. This let users to have more control over timeouts. 
+Recently (Spring 2022) I got the opportunity to be be an __Open Source fellow in the MLH fellowship__ <img src="https://user-images.githubusercontent.com/60515606/163269362-9ed3fa1f-315c-49ce-834a-f24a25c19b5f.png" alt="python" width="5" height="5"/>, where I was paired with the AWS CLI, I did a feature where the [connect and read timeouts](https://github.com/aws/aws-cli/pull/6803) to the services can be configurable from environment variables or from the config file without deprecating previous behaviour. This let users to have more control over timeouts. 
 
 ## Languages and Technologies
 <p align="center">
