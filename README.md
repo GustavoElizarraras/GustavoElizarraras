@@ -46,4 +46,4 @@ On Summer 2022 I started my internship at Nubank <img src="https://nu.com.mx/ima
 - I love tech communities where I can grow alongside folks who are passionate for tech.
 
 ## My goal is to contribute more to open source 😎🚩
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoElizarraras&theme=tokyonight&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gellanz&theme=tokyonight&fire=DD2727)](https://git.io/streak-stats)
