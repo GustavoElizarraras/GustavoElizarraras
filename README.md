@@ -2,20 +2,22 @@
 
 I am a __Github Campus Expert__ 🚩 studying Mechatronics Engineering at the Advanced Technologies School (UPIITA) of the National Polytechnic Institute of Mexico (IPN). Even though, my real passion is Data Science and Machine Learning. 🚀
 
-Recently (Spring 2022) I got the opportunity to be be an __Open Source fellow in the MLH fellowship__ <img src="https://user-images.githubusercontent.com/60515606/163269362-9ed3fa1f-315c-49ce-834a-f24a25c19b5f.png" alt="python" width="12" height="12"/>, where I was paired with the AWS CLI, I did a feature where the [connect and read timeouts](https://github.com/aws/aws-cli/pull/6803) to the services can be configurable from environment variables or from the config file without deprecating previous behaviour. This let users to have more control over timeouts. 
+On Spring 2022 I got the opportunity to be be an __Open Source fellow in the MLH fellowship__ <img src="https://user-images.githubusercontent.com/60515606/163269362-9ed3fa1f-315c-49ce-834a-f24a25c19b5f.png" alt="mlh" width="12" height="12"/>, where I was paired with the AWS CLI, I did a feature where the [connect and read timeouts](https://github.com/aws/aws-cli/pull/6803) to the services can be configurable from environment variables or from the config file without deprecating previous behaviour. This let users to have more control over services timeouts.
+
+On Summer 2022 I started my internship at Nubank <img src="https://nu.com.mx/images/seo/nu-icon.png?v=2" alt="nu" width="12" height="12"/> as a Data Scientist.
 
 ## Languages and Technologies
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tensorflow/tensorflow-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tensorflow/tensorflow-original.svg" alt="tf" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-plain.svg" alt="go" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" alt="go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" alt="go" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/scala/scala-original.svg" alt="go" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="go" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="go" width="60" height="40"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original-wordmark.svg" alt="go" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" alt="go" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="go" width="40" height="40"/>
