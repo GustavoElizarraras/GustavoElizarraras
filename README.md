@@ -4,7 +4,9 @@ I am a __Github Campus Expert__ 🚩 studying Mechatronics Engineering at the Ad
 
 On Spring 2022 I got the opportunity to be be an __Open Source fellow in the MLH fellowship__ <img src="https://user-images.githubusercontent.com/60515606/163269362-9ed3fa1f-315c-49ce-834a-f24a25c19b5f.png" alt="mlh" width="12" height="12"/>, where I was paired with the AWS CLI, I did a feature where the [connect and read timeouts](https://github.com/aws/aws-cli/pull/6803) to the services can be configurable from environment variables or from the config file without deprecating previous behaviour. This let users to have more control over services timeouts.
 
-On Summer 2022 I started my internship at Nubank <img src="https://nu.com.mx/images/seo/nu-icon.png?v=2" alt="nu" width="12" height="12"/> as a Data Scientist.
+On Summer 2022 I started my internship at Nubank <img src="https://nu.com.mx/images/seo/nu-icon.png?v=2" alt="nu" width="12" height="12"/> as a Data Scientist and finishied it succesfully on December 2022. I got to design and implement a pretty cool neural network on Tensorflow, it accepted two 2D matrices and one vector that described a client; also I had an Scala project to fix some internal dates between DS and BA's in order to generate target tables for training the underwriting model.
+
+On early 2023 I finished my thesis project, an automated driller machine por printed circuit boards, it recognizes the pin-holes with a custom convolutional neural network for object detection and then it does a translation between pixels to DC motor pulses that reach accurately the pin hole center. I got to do the full ML pipeline since data recolectation, labeling, model building, do the real environment and put the software all together into a Raspberry Pi 4.
 
 ## Languages and Technologies
 <p align="center">
